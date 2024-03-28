@@ -1,0 +1,43 @@
+替换RPC组件，包括替换client端（调用方）和Server端（服务方）的部分代码。
+
+lighthouse-client自定义调用方实现：
+
+自定义实现以下接口：
+```
+public interface RPCClient {
+    
+    /**
+    * 连接初始化
+    */
+    boolean init(String configuration) throws Exception;
+
+    /**
+    * 断开重连实现，如果rpc服务已具备断开重连功能，可以置为空。
+    */
+    void reconnect() throws Exception;
+
+    /**
+    *  调用服务方接口实现通过token查询统计组信息的功能（该功能实现已经封装好，服务方只需要调用即可）
+    */
+    GroupVerifyEntity queryGroup(String token) throws Exception;
+
+    /**
+    * 调用服务方接口上报统计原始消息数据。
+    */
+    void send(String text) throws Exception;
+}
+```
+
+lighthouse-ice自定义服务方实现
+在您的rpc服务方提供出以下两个接口，然后在接口实现中调用RPCServerImpl中的实现逻辑即可！
+
+``` 
+    GroupVerifyEntity queryGroup(String token) throws Exception;
+    
+    void send(String text) throws Exception;
+```
+
+
+
+
+
