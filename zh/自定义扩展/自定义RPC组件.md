@@ -12,7 +12,7 @@ public interface RPCClient {
     boolean init(String configuration) throws Exception;
 
     /**
-    * 断开重连实现，如果rpc服务已具备断开重连功能，可以置为空。
+    * 断开重连实现，如果rpc服务本身已具备断开重连功能，可以置为空。
     */
     void reconnect() throws Exception;
 
