@@ -38,6 +38,10 @@ lighthouse-ice自定义服务方实现
 ```
 
 
+使用以上自定义RPC实现，在部署XL-Lighthouse时需要关闭lighthouse-ice部署配置。
+
+
+
 
 
 
