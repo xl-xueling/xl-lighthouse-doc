@@ -28,7 +28,8 @@
     * [自定义存储引擎](zh/安装部署/自定义存储引擎.md)
     * [自定义RPC组件](zh/安装部署/自定义RPC组件.md)
 *  Hello World
-    * [Hello World](zh/HelloWorld/HelloWorld.md)
+    * [ICON图标点击数据统计](zh/HelloWorld/icon图标点击数据统计.md)
+    * [移动支付订单数据统计](zh/HelloWorld/移动支付订单数据统计.md)
 *  自定义扩展
     * [自定义存储引擎](zh/自定义扩展/自定义存储引擎.md)
     * [自定义RPC组件](zh/自定义扩展/自定义RPC组件.md)
