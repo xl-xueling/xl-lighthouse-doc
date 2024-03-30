@@ -3,7 +3,7 @@
 - 2、在Web页面创建统计项；
 - 3、调用SDK上报原数据消息；
 
-然后就可以在Web页面查看统计数据了。
+然后就可以在Web页面查看统计结果了。
 
 ##  范例一：首页ICON区域用户行为数据统计
 <img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/4301-2/1.png"  width="300px" height="200px" />
@@ -36,12 +36,42 @@
 | tab_id | string | Tab栏 | tab1、tab2、tab3 |
 | icon_id | string | 美食团购、酒店民宿、休闲玩乐、打车 ...|  |
 
+
 + 上报元数据时机
   用户点击ICON图标时上报相应埋点数据
 
 + 配置统计项
 
-<img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/4301-2/2.png"  width="800px" height="400px" />
+```
+Template：<stat-item  title="每5分钟_点击量" stat="count()"  />
+TimeParam: 5-minute
+
+Template：<stat-item  title="每5分钟_各icon_点击量" stat="count()" dimens="icon_id" />
+TimeParam: 5-minute
+
+Template：<stat-item  title="每小时_点击量" stat="count()" />
+TimeParam: 1-hour
+
+Template：<stat-item  title="每小时_各icon_点击量" stat="count()" dimens="icon_id" />
+TimeParam: 1-hour
+
+Template：<stat-item  title="每天_各Tab_总点击量" stat="count()" dimens="tab_id"  /> 
+TimeParam: 1-day
+
+Template：<stat-item  title="每天_各icon_总点击量" stat="count()" dimens="icon_id" />
+TimeParam: 1-day
+
+Template：<stat-item  title="每小时_点击uv" stat="bitcount(user_id)"  />
+TimeParam: 1-hour
+
+Template：<stat-item  title="每天_总点击uv" stat="bitcount(user_id)"   />
+TimeParam: 1-day
+
+Template：<stat-item  title="每天_各ICON_点击uv" stat="bitcount(user_id)" dimens="icon_id"  />
+TimeParam: 1-day
+```
+
+<img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/18.jpg"  width="300px" height="200px" />
 
 + 模拟数据接入
 ```
@@ -64,12 +94,12 @@
 ```
 +  查看统计结果
 
-<img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/4301-2/3.png"  width="800px" height="400px" />
+<img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/17.jpg"  width="800px" height="450px" />
 
 
 ## 范例二：移动支付订单数据统计
 
-<img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/4301-2/4.png"  width="250px" height="450px" />
+<img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/4301-2/4.png"   width="800px" height="450px" />
 
 关于订单相关的统计指标是非常多的，如果单个统计组不能满足所有统计需求时，可将各需求拆分成多个统计组实现。我选择两类常见的指标进行阐述：
 一是订单金额、下单用户数相关数据统计，二是订单状态相关数据统计。
