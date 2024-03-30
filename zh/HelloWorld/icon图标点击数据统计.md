@@ -86,7 +86,7 @@ TimeParam: 1-day
             paramMap.put("tab_id","tab_" + ThreadLocalRandom.current().nextInt(3));
             paramMap.put("icon_id","icon_" + ThreadLocalRandom.current().nextInt(30));
             //参数1对应统计组token，参数2对应统计组秘钥，参数3是消息事件的13位时间戳 
-			LightHouse.stat("homepage_icon_click","f1ghKrnIQaRpbWOX0HOO2EaOXQ19ymXD",paramMap,System.currentTimeMillis());
+			LightHouse.stat("Gjd:homepage_icon_click_stat","f1ghKrnIQaRpbWOX0HOO2EaOXQ19ymXD",paramMap,System.currentTimeMillis());
         }
 		 //注意：stat方法为异步发送，如果进程直接退出可能会导致部分消息没有发送出去，所以这里加一个sleep。
         Thread.sleep(10 * 1000);
