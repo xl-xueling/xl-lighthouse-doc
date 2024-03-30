@@ -36,4 +36,4 @@
     * [依赖组件](zh/依赖组件/依赖组件.md)
 * [API] 
 * [版权声明]
-  * [版权声明](zh/版权声明/XL-LightHouse%20&%20XL-Formula版权声明.md)
+    * [版权声明](zh/版权声明/XL-LightHouse%20&%20XL-Formula版权声明.md)
