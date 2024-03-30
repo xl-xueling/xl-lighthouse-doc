@@ -1,6 +1,6 @@
-.navigation-prev-button {
+.navigation.navigation-prev {
     display: none !important;
 }
-.navigation-next-button {
+.navigation.navigation-next {
     display: none !important;
 }
