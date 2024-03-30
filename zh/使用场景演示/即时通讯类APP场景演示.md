@@ -1,6 +1,7 @@
-------------
-##### **在阅读本文前建议您首先阅读：[XL-LightHouse - HelloWorld](https://dtstep.com/archives/4301.html "XL-LightHouse - HelloWorld")，以便于您对XL-LightHouse的使用有初步了解。**
-------------
+
+在阅读本文前建议您首先阅读：
+[ICON图标点击数据统计](/zh/HelloWorld/icon图标点击数据统计.md)
+[移动支付订单数据统计](/zh/HelloWorld/移动支付订单数据统计.md)，以便于您对XL-LightHouse的使用有初步了解。
 
  ``` 
  XL-LightHouse的运算依赖业务方接入主动上报的原始统计消息，XL-LightHouse自身的功能不涉及相关埋点数据采集环节。
