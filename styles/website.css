@@ -1,3 +1,7 @@
+.page-inner {
+    max-width: 80% !important;
+}
+
 .navigation.navigation-prev {
     display: none !important;
 }
