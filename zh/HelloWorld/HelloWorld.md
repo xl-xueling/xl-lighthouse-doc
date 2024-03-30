@@ -71,7 +71,7 @@ Template：<stat-item  title="每天_各ICON_点击uv" stat="bitcount(user_id)" 
 TimeParam: 1-day
 ```
 
-<img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/18.jpg"  width="300px" height="200px" />
+<img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/18.jpg"  width="800px" height="450px" />
 
 + 模拟数据接入
 ```
@@ -99,7 +99,7 @@ TimeParam: 1-day
 
 ## 范例二：移动支付订单数据统计
 
-<img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/4301-2/4.png"   width="800px" height="450px" />
+<img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/4301-2/4.png"   width="300px" height="450px" />
 
 关于订单相关的统计指标是非常多的，如果单个统计组不能满足所有统计需求时，可将各需求拆分成多个统计组实现。我选择两类常见的指标进行阐述：
 一是订单金额、下单用户数相关数据统计，二是订单状态相关数据统计。
