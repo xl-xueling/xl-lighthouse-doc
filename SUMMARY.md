@@ -15,6 +15,25 @@
     * [统计限流](zh/Web端操作说明/统计限流.md)
     * [调试模式](zh/Web端操作说明/调试模式.md)
     * [工单管理](zh/Web端操作说明/工单管理.md)
-* [Chapter 3]
-    * [Section 3.1](IdeaProjects/xl-lighthouse-doc/zh/Web端操作说明/1、部门管理.md)
-    * [Section 3.2](IdeaProjects/xl-lighthouse-doc/zh/Web端操作说明/9、筛选组件.md)
+* [XL-Formula]
+    * [XL-Formula介绍](zh/XL-Formula/XL-Formula通用型流式统计运算方式配置说明.md)
+* [使用场景演示]
+    * [即时通讯](zh/使用场景演示/即时通讯类APP场景演示.md)
+    * [技术场景](zh/使用场景演示/技术类场景使用演示.md)
+    * [电商场景](zh/使用场景演示/电商类业务场景使用演示.md)
+    * [资讯场景](zh/使用场景演示/资讯类业务场景使用演示.md)
+* [安装部署]
+    * [一键部署](zh/安装部署/一键部署.md)
+    * [自定义存储引擎](zh/安装部署/自定义存储引擎.md)
+    * [自定义RPC组件](zh/安装部署/自定义RPC组件.md)
+* [Hello World]
+    * [Hello World](zh/Hello%20World/HelloWorld.md)
+* [自定义扩展]
+    * [自定义存储引擎](zh/自定义扩展/自定义存储引擎.md)
+    * [自定义RPC组件](zh/自定义扩展/自定义RPC组件.md)
+    * [自定义Key生成逻辑](zh/自定义扩展/自定义Key生成逻辑.md)
+* [依赖组件]
+    * [依赖组件](zh/依赖组件/依赖组件.md)
+* [API] 
+* [版权声明]
+  * [版权声明](zh/版权声明/XL-LightHouse%20&%20XL-Formula版权声明.md)
