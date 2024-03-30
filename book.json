@@ -1,5 +1,10 @@
 {
+  "styles": {
+    "website": "styles/website.css"
+  },
   "plugins":[
-    "expandable-chapters"
+    "expandable-chapters",
+    "pageview-count",
+    "lightbox"
   ]
 }
