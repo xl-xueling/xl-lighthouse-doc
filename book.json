@@ -4,7 +4,6 @@
   },
   "plugins":[
     "expandable-chapters",
-    "pageview-count",
-    "lightbox"
+    "pageview-count"
   ]
 }
