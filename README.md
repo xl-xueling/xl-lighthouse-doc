@@ -8,7 +8,7 @@ A general-purpose streaming big data statistics system.<br>
 Easier to use, supports a larger amount of data, and can complete more statistical indicators faster.
 </p>
 
-<div align="center">
+<p align="center">
 
 [![LICENSE](https://img.shields.io/github/license/xl-xueling/xl-lighthouse.svg)](https://github.com/xl-xueling/xl-lighthouse/blob/master/LICENSE)
 [![Language](https://img.shields.io/badge/language-Java-blue.svg)](https://www.java.com)
@@ -17,7 +17,7 @@ Easier to use, supports a larger amount of data, and can complete more statistic
 [![GitHub release date](https://img.shields.io/github/release-date/xl-xueling/xl-lighthouse.svg)](https://github.com/xl-xueling/xl-lighthouse/releases)
 
 
-</div>
+</p>
 
 
 
