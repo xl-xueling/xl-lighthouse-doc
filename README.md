@@ -9,7 +9,6 @@ Easier to use, supports a larger amount of data, and can complete more statistic
 </p>
 
 
-
 <div align="center">
 
 [![LICENSE](https://img.shields.io/github/license/xl-xueling/xl-lighthouse.svg)](https://github.com/xl-xueling/xl-lighthouse/blob/master/LICENSE)
