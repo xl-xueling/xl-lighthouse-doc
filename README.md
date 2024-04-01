@@ -1,12 +1,14 @@
 <br>
 <div align="center">
 	<img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/26.jpg" width="220px;">
-
+</div>
 
 <p align="center">
 A general-purpose streaming big data statistics system.<br>
 Easier to use, supports a larger amount of data, and can complete more statistical indicators faster.
 </p>
+
+<center>
 
 [![LICENSE](https://img.shields.io/github/license/xl-xueling/xl-lighthouse.svg)](https://github.com/xl-xueling/xl-lighthouse/blob/master/LICENSE)
 [![Language](https://img.shields.io/badge/language-Java-blue.svg)](https://www.java.com)
@@ -14,8 +16,8 @@ Easier to use, supports a larger amount of data, and can complete more statistic
 [![GitHub release](https://img.shields.io/github/tag/xl-xueling/xl-lighthouse.svg?label=release)](https://github.com/xl-xueling/xl-lighthouse/releases)
 [![GitHub release date](https://img.shields.io/github/release-date/xl-xueling/xl-lighthouse.svg)](https://github.com/xl-xueling/xl-lighthouse/releases)
 
+</center>
 
-</div>
 <br>
 
 <p align="center"><font size="4">一键部署，一行代码接入，无需大数据研发运维经验，轻松驾驭海量数据实时统计。</font></p>
