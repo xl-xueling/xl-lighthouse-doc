@@ -8,6 +8,9 @@ A general-purpose streaming big data statistics system.<br>
 Easier to use, supports a larger amount of data, and can complete more statistical indicators faster.
 </p>
 
+<div align="center">
+
+</div>
 
 <div align="center">
 
@@ -18,11 +21,10 @@ Easier to use, supports a larger amount of data, and can complete more statistic
 [![GitHub release date](https://img.shields.io/github/release-date/xl-xueling/xl-lighthouse.svg)](https://github.com/xl-xueling/xl-lighthouse/releases)
 
 </div>
+<br>
 
-<div align="center">
-<p><font size="3">一键部署，一行代码接入，无需大数据研发运维经验，轻松驾驭海量数据实时统计。</font>
-<p><font size="3">支撑百万量级数据指标，帮助企业搭建遍布全身的数据化运营体系。</font>
-</div>
+<p align="center"><font size="4">一键部署，一行代码接入，无需大数据研发运维经验，轻松驾驭海量数据实时统计。</font></p>
+<p align="center"><font size="4">支撑百万量级数据指标，帮助企业搭建遍布全身的数据化运营体系。</font></p>
 
 ### 使用XL-LightHouse后：
 
@@ -69,7 +71,3 @@ Easier to use, supports a larger amount of data, and can complete more statistic
 ![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/8.jpg)
 ![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/9.jpg?t=2)
 ![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/11.jpg)
-
-
-### 中文
-### English
