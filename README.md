@@ -14,8 +14,6 @@ Easier to use, supports a larger amount of data, and can complete more statistic
 [![GitHub release](https://img.shields.io/github/tag/xl-xueling/xl-lighthouse.svg?label=release)](https://github.com/xl-xueling/xl-lighthouse/releases)
 [![GitHub release date](https://img.shields.io/github/release-date/xl-xueling/xl-lighthouse.svg)](https://github.com/xl-xueling/xl-lighthouse/releases)
 
-<br>
-
 <p align="center"><font size="4">一键部署，一行代码接入，无需大数据研发运维经验，轻松驾驭海量数据实时统计。</font></p>
 <p align="center"><font size="4">支撑百万量级数据指标，帮助企业搭建遍布全身的数据化运营体系。</font></p>
 
