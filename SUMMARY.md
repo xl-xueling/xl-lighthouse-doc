@@ -17,7 +17,7 @@
     * [调试模式](zh/Web端操作说明/调试模式.md)
     * [工单管理](zh/Web端操作说明/工单管理.md)
 *  XL-Formula
-    * [XL-Formula介绍](zh/XL-Formula/XL-Formula通用型流式统计运算方式配置说明.md)
+    * [XL-Formula介绍](zh/XL-Formula/01.md)
 *  使用场景演示
     * [即时通讯场景演示](zh/使用场景演示/即时通讯类APP场景演示.md)
     * [技术类场景演示](zh/使用场景演示/技术类场景使用演示.md)
