@@ -8,6 +8,8 @@
 
 **为了测试方便，您可以直接下载工程代码，在Web服务中依次创建(统计工程 -> 统计组 -> 统计项)后，然后使用com.dtstep.lighthouse.core.test.stat.HelloWorld中的单元测试方法，记得修改RPC服务IP地址和统计组的Token及秘钥，运行即可！**
 
+**使用过程中如有问题，及时反馈，本人一定第一时间响应~**
+
 ###  范例：首页ICON区域用户行为数据统计
 
 <img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/4301-2/1.png"  width="300px" height="200px" />
