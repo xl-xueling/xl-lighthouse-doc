@@ -9,6 +9,7 @@
   },
   "plugins":[
     "-search",
+    "toggle-chapters",
     "expandable-chapters-small",
     "pageview-count",
     "anchor-navigation-ex"
