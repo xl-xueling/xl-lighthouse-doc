@@ -3,7 +3,7 @@
     "website": "styles/website.css"
   },
   "plugins":[
-    "chapter-fold",
+    "expandable-chapters-small",
     "pageview-count",
     "anchor-navigation-ex"
   ],
