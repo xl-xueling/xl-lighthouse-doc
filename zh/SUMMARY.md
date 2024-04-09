@@ -1,6 +1,6 @@
 # Summary
 ## 前言
-*  [Introduction](README.md)
+   *  [Introduction](README.md)
 ## 系统介绍
    * [系统介绍](项目介绍/系统介绍.md)
 ## 系统设计
