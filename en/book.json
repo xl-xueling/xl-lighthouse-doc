@@ -2,6 +2,9 @@
   "styles": {
     "website": "styles/website.css"
   },
+  "structure": {
+    "SUMMARY.md": "README.md"
+  },
   "plugins":[
     "expandable-chapters",
     "pageview-count",
