@@ -1,4 +1,4 @@
-[中文](/zh/README.md) | [English](/en/README.md)
+[中文](zh) | [English](en)
 
 <br>
 <div align="center">
