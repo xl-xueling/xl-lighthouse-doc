@@ -2,7 +2,8 @@
   "plugins":[
     "expandable-chapters",
     "pageview-count",
-    "anchor-navigation-ex"
+    "anchor-navigation-ex",
+    "multilingual-index"
   ],
   "pluginsConfig": {
     "anchor-navigation-ex": {
@@ -20,6 +21,10 @@
     },
     "theme-default": {
       "showLevel": true
+    },
+    "multilingual-index": {
+      "enableSuper": false,
+      "index":"/zh/index.html"
     }
   }
 }
