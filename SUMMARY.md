@@ -3,8 +3,8 @@
 *  系统介绍
     * [系统介绍](zh/项目介绍/系统介绍.md)
 *  系统设计
-    * [系统设计](zh/系统设计/系统设计.md)
-    * [与ClickHouse/Flink技术对比](zh/系统设计/开源XL-LightHouse与Flink、ClickHouse之类技术相比有什么优势.md)
+    * [系统设计](zh/architecture/01.md)
+    * [与ClickHouse/Flink技术对比](zh/architecture/02.md)
 *  Web端操作说明
     * [部门管理](zh/Web端操作说明/部门管理.md)
     * [用户管理](zh/Web端操作说明/用户管理.md)
