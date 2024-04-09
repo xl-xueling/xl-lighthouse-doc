@@ -24,9 +24,9 @@
     * [电商类场景演示](zh/scene/03.md)
     * [资讯类场景演示](zh/scene/04.md)
 *  安装部署
-    * [一键部署](zh/安装部署/一键部署.md)
-    * [自定义存储引擎](zh/安装部署/自定义存储引擎.md)
-    * [自定义RPC组件](zh/安装部署/自定义RPC组件.md)
+    * [一键部署](zh/deploy/01.md)
+    * [自定义RPC组件](zh/deploy/02.md)
+    * [自定义存储引擎](zh/deploy/03.md)
 *  Hello World
     * [ICON图标点击数据统计](zh/HelloWorld/01.md)
     * [移动支付订单数据统计](zh/HelloWorld/02.md)
