@@ -1,7 +1,6 @@
 # Summary
 
-*  系统介绍
-   * [系统介绍](README.md)
+* [系统介绍](README.md)
 *  系统设计
    * [系统设计](architecture/01.md)
    * [与ClickHouse/Flink技术对比](architecture/02.md)
