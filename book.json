@@ -5,8 +5,7 @@
   "plugins":[
     "expandable-chapters",
     "pageview-count",
-    "anchor-navigation-ex",
-    "language-picker"
+    "anchor-navigation-ex"
   ],
   "pluginsConfig": {
     "anchor-navigation-ex": {
@@ -21,9 +20,6 @@
       "showLevel": true,
       "maxLevel": 3,
       "showGoTop":false
-    },
-    "language-picker": {
-      "grid-columns": 2
     }
   }
 }
