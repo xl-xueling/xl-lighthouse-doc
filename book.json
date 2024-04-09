@@ -8,7 +8,7 @@
     }
   },
   "plugins":[
-    "expandable-chapters-small",
+    "expandable-chapters",
     "pageview-count",
     "anchor-navigation-ex"
   ],
