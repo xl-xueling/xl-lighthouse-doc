@@ -1,4 +1,5 @@
 {
+  "language": "zh",
   "plugins":[
     "expandable-chapters",
     "pageview-count",
@@ -21,10 +22,6 @@
     },
     "theme-default": {
       "showLevel": true
-    },
-    "multilingual-index": {
-      "enableSuper": false,
-      "index":"index.html"
     }
   }
 }
