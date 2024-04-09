@@ -5,12 +5,24 @@
   "plugins":[
     "expandable-chapters",
     "pageview-count",
-    "page-toc-button"
+    "page-toc-button",
+    "anchor-navigation-ex"
   ],
   "pluginsConfig": {
     "page-toc-button": {
       "maxTocDepth": 2,
       "minTocSize": 2
+    },
+    "anchor-navigation-ex": {
+      "tocLevel1Icon": "fa fa-hand-o-right",
+      "tocLevel2Icon": "fa fa-hand-o-right",
+      "tocLevel3Icon": "fa fa-hand-o-right",
+      "multipleH1": false,
+      "multipleH2": false,
+      "multipleH3": false,
+      "multipleH4": false,
+      "showLevelIcon": false,
+      "showLevel": false
     }
   }
 }
