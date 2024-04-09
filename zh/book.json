@@ -2,6 +2,11 @@
   "styles": {
     "website": "styles/website.css"
   },
+  "links" : {
+    "sidebar" : {
+      "Switch English" : "http://43.128.112.109:4000/en/"
+    }
+  },
   "plugins":[
     "expandable-chapters",
     "pageview-count",
