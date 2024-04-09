@@ -9,7 +9,7 @@
   },
   "plugins":[
     "-search",
-    "expandable-chapters",
+    "expandable-chapters-small",
     "pageview-count",
     "anchor-navigation-ex"
   ],
@@ -27,5 +27,6 @@
       "maxLevel": 3,
       "showGoTop":false
     }
+
   }
 }
