@@ -24,7 +24,7 @@
     },
     "multilingual-index": {
       "enableSuper": false,
-      "index":"/zh/index.html"
+      "index":"index.html"
     }
   }
 }
