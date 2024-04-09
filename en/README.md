@@ -14,53 +14,53 @@ Easier to use, supports a larger amount of data, and can complete more statistic
 [![GitHub release](https://img.shields.io/github/tag/xl-xueling/xl-lighthouse.svg?label=release)](https://github.com/xl-xueling/xl-lighthouse/releases)
 [![GitHub release date](https://img.shields.io/github/release-date/xl-xueling/xl-lighthouse.svg)](https://github.com/xl-xueling/xl-lighthouse/releases)
 
-<p align="center"><font size="4">一键部署，一行代码接入，无需大数据研发运维经验，轻松驾驭海量数据实时统计。</font></p>
-<p align="center"><font size="4">支撑百万量级数据指标，帮助企业低成本搭建数据化运营体系。</font></p>
+<p align="center"><font size="4">One-click deployment, one-line access, no need for big data R&D and operation and maintenance experience, easily handle real-time statistics of massive data.</font></p>
+<p align="center"><font size="4">Supports millions-level data indicators, helping enterprises to build a data-driven operation system at low cost.</font></p>
 
-### 概述
+### Overview
 
-* XL-LightHouse是针对互联网领域繁杂的流式数据统计需求而开发的一套集成了数据写入、数据运算、数据存储和数据可视化等一系列功能，支持超大数据量，支持超高并发的【通用型流式大数据统计平台】。
-* XL-LightHouse目前已涵盖了各种流式数据统计场景，包括count、sum、max、min、avg、distinct、topN/lastN等多种运算，支持多维度计算，支持分钟级、小时级、天级多个时间粒度的统计，支持自定义统计周期的配置。
-* XL-LightHouse内置丰富的转化类函数、支持表达式解析，可以满足各种复杂的条件筛选和逻辑判断。
-* XL-LightHouse是一套功能完备的流式大数据统计领域的数据治理解决方案，它提供了比较友好和完善的可视化查询功能，并对外提供API查询接口，此外还包括数据指标管理、权限管理、统计限流等多种功能。
-* XL-LightHouse支持时序性数据的存储和查询。
+* XL-LightHouse is a set of integrated functions including data writing, data calculation, data storage, and data visualization developed for the complex streaming data statistics requirements in the Internet field. It supports large data volume and high concurrency, serving as a general-purpose streaming big data statistics platform.
+* XL-LightHouse currently covers various streaming data statistics scenarios, including count, sum, max, min, avg, distinct, topN/lastN, and more. It supports multidimensional calculations, multiple time granularities such as minute, hour, and day, and custom configuration of statistical periods.
+* XL-LightHouse has built-in rich conversion functions and supports expression parsing, which can meet various complex condition filtering and logical judgment requirements.
+* XL-LightHouse is a complete solution for data governance in the field of streaming big data statistics, providing user-friendly and comprehensive visual query functions, API query interfaces, as well as data indicator management, permission management, statistical throttling, and more.
+* XL-LightHouse supports storage and querying of time-series data.
 
-### 产品优势
+### Product Advantages
 
-+  XL-LightHouse面向企业繁杂的流式数据统计需求，可以帮助企业在极短时间内快速实现数以万计、数十万计的数据指标，而这是Flink、Spark、ClickHouse、Doris之类技术所远不能比拟的，XL-LightHouse帮助企业低成本实现数据化运营，数据指标体系可遍布企业运转的方方面面；
-+  一套系统三种用途，可作为：通用型流式大数据统计系统、数据指标管理系统和数据指标可视化系统。
-+  对单个流式统计场景的数据量无限制，可以非常庞大，也可以非常稀少，您既可以使用它完成十亿级用户量APP的DAU统计、十几万台服务器的运维监控、一线互联网大厂数据量级的日志统计、也可以用它来统计一天只有零星几次的接口调用量、耗时状况；
-+  支持高并发查询统计结果；
-+  一键部署、一行代码接入，无需专业的大数据研发人员，普通工程人员就可以轻松驾驭；
-+  有完善的数据指标可视化以及数据指标管理维护等功能；
++ XL-LightHouse is designed for the complex streaming data statistics requirements of enterprises, enabling enterprises to quickly achieve tens of thousands or hundreds of thousands of data indicators in a very short time. This is something that technologies like Flink, Spark, ClickHouse, and Doris cannot compare with. XL-LightHouse helps enterprises realize data-driven operations at low cost, and the data indicator system can cover all aspects of enterprise operation.
++ One system, three uses: serves as a general-purpose streaming big data statistics system, data indicator management system, and data indicator visualization system.
++ Unlimited data volume for a single streaming statistics scenario, whether it's very large or very sparse. You can use it to achieve DAU statistics for apps with billions of users, operation monitoring for tens of thousands of servers, log statistics for first-tier Internet giants, or to count occasional interface calls and time-consuming situations in a day.
++ Supports high-concurrency query of statistical results.
++ One-click deployment, one-line access, no need for professional big data R&D personnel, ordinary engineering personnel can easily handle it.
++ Provides comprehensive data indicator visualization and management maintenance functions.
 
-有希望使用XL-LightHouse的用户，可添加本人微信，提供免费一对一技术支持，如果在部署、使用过程中遇到任何问题，请及时提issue，我会第一时间处理！
+Users who are interested in using XL-LightHouse can add my WeChat for free one-on-one technical support. If you encounter any problems during deployment or use, please submit an issue, and I will handle it promptly!
 
-### XL-LightHouse与Flink和ClickHouse之类技术对比
+### Comparison with Technologies like Flink and ClickHouse
 
--  [与Flink和ClickHouse之类技术对比](https://dtstep.com/zh/architecture/02.html)
+- [Comparison with Technologies like Flink and ClickHouse](https://dtstep.com/zh/architecture/02.html)
 
-###  一键部署
+### One-click Deployment
 
--  [一键部署](https://dtstep.com/zh/deploy/01.html)
+- [One-click Deployment](https://dtstep.com/zh/deploy/01.html)
 
-###  Hello World
+### Hello World
 
-- [ICON点击数据统计](https://dtstep.com/zh/HelloWorld/01.html)
-- [电商订单数据统计](https://dtstep.com/zh/HelloWorld/02.html)
+- [ICON Click Data Statistics](https://dtstep.com/zh/HelloWorld/01.html)
+- [E-commerce Order Data Statistics](https://dtstep.com/zh/HelloWorld/02.html)
 
-###  使用场景演示
-- [即时通讯场景演示](https://dtstep.com/zh/scene/01.html)
-- [技术类场景演示](https://dtstep.com/zh/scene/02.html)
-- [电商类场景演示](https://dtstep.com/zh/scene/03.html)
-- [资讯类场景演示](https://dtstep.com/zh/scene/04.html)
+### Usage Scenario Demonstration
 
+- [Instant Messaging Scenario Demonstration](https://dtstep.com/zh/scene/01.html)
+- [Technical Scenario Demonstration](https://dtstep.com/zh/scene/02.html)
+- [E-commerce Scenario Demonstration](https://dtstep.com/zh/scene/03.html)
+- [Information Scenario Demonstration](https://dtstep.com/zh/scene/04.html)
 
-###  Web端演示站点
+### Web-based Demonstration Site
 
-演示站点：http://119.91.203.220:19232/     测试账号：admin，密码：123456
+Demo Site: http://119.91.203.220:19232/     Test Account: admin, Password: 123456
 
-###  Web端部分功能预览
+### Preview of Some Web-based Functions
 
 ![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/5.jpg)
 ![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/22.jpg)
