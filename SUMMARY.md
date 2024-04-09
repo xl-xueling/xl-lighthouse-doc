@@ -31,9 +31,9 @@
     * [ICON图标点击数据统计](zh/HelloWorld/01.md)
     * [移动支付订单数据统计](zh/HelloWorld/02.md)
 *  自定义扩展
-    * [自定义存储引擎](zh/extend/01.md)
+    * [自定义Key生成逻辑](zh/extend/01.md)
     * [自定义RPC组件](zh/extend/02.md)
-    * [自定义Key生成逻辑](zh/extend/03.md)
+    * [自定义存储引擎](zh/extend/03.md)
 *  迭代计划
     * [迭代计划](zh/迭代计划/迭代计划.md)  
 *  依赖组件
