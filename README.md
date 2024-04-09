@@ -1,4 +1,4 @@
-中文  |  English
+[中文](README.md) | [English](en.md)
 
 <br>
 <div align="center">
