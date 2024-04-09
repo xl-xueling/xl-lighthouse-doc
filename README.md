@@ -1,3 +1,5 @@
+中文  |  English
+
 <br>
 <div align="center">
 	<img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/26.jpg" width="220px;">
@@ -34,25 +36,29 @@ Easier to use, supports a larger amount of data, and can complete more statistic
 +  一键部署、一行代码接入，无需专业的大数据研发人员，普通工程人员就可以轻松驾驭；
 +  有完善的数据指标可视化以及数据指标管理维护等功能；
 
-### Hello World
-
-
+有希望使用XL-LightHouse的用户，可添加本人微信，提供免费一对一技术支持，如果在部署、使用过程中遇到任何问题，请及时提issue，我会第一时间处理！
 
 ### XL-LightHouse与Flink和ClickHouse之类技术对比
 
--  [与Flink和ClickHouse之类技术对比](https://dtstep.com/zh/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E5%BC%80%E6%BA%90XL-LightHouse%E4%B8%8EFlink%E3%80%81ClickHouse%E4%B9%8B%E7%B1%BB%E6%8A%80%E6%9C%AF%E7%9B%B8%E6%AF%94%E6%9C%89%E4%BB%80%E4%B9%88%E4%BC%98%E5%8A%BF.html)
+-  [与Flink和ClickHouse之类技术对比](https://dtstep.com/zh/architecture/02.html)
 
 ###  一键部署
 
--  [一键部署](https://dtstep.com/zh/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2/%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2.html)
+-  [一键部署](https://dtstep.com/zh/deploy/01.html)
+
+###  Hello World
+
+- [ICON点击数据统计](https://dtstep.com/zh/HelloWorld/01.html)
+- [电商订单数据统计](https://dtstep.com/zh/HelloWorld/02.html)
 
 ###  使用场景演示
-- [即时通讯场景演示](https://dtstep.com/zh/%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF%E6%BC%94%E7%A4%BA/%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%E7%B1%BBAPP%E5%9C%BA%E6%99%AF%E6%BC%94%E7%A4%BA.html)
-- [技术类场景演示](https://dtstep.com/zh/%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF%E6%BC%94%E7%A4%BA/%E6%8A%80%E6%9C%AF%E7%B1%BB%E5%9C%BA%E6%99%AF%E4%BD%BF%E7%94%A8%E6%BC%94%E7%A4%BA.html)
-- [电商类场景演示](https://dtstep.com/zh/%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF%E6%BC%94%E7%A4%BA/%E7%94%B5%E5%95%86%E7%B1%BB%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E4%BD%BF%E7%94%A8%E6%BC%94%E7%A4%BA.html)
-- [资讯类场景演示](https://dtstep.com/zh/%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF%E6%BC%94%E7%A4%BA/%E8%B5%84%E8%AE%AF%E7%B1%BB%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E4%BD%BF%E7%94%A8%E6%BC%94%E7%A4%BA.html)
-  
-###  演示站点
+- [即时通讯场景演示](https://dtstep.com/zh/scene/01.html)
+- [技术类场景演示](https://dtstep.com/zh/scene/02.html)
+- [电商类场景演示](https://dtstep.com/zh/scene/03.html)
+- [资讯类场景演示](https://dtstep.com/zh/scene/04.html)
+
+
+###  Web端演示站点
 
 演示站点：http://119.91.203.220:19232/     测试账号：admin，密码：123456
 
