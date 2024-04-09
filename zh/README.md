@@ -1,5 +1,3 @@
-[中文](README.md) | [English](en.md)
-
 <br>
 <div align="center">
 	<img src="https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/26.jpg" width="220px;">

@@ -4,11 +4,10 @@
   },
   "links" : {
     "sidebar" : {
-      "切换到中文" : "http://43.128.112.109:4000/zh/"
+      "Switch English" : "http://43.128.112.109:4000/en/"
     }
   },
   "plugins":[
-    "-search",
     "expandable-chapters",
     "pageview-count",
     "anchor-navigation-ex"
