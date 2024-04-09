@@ -21,6 +21,10 @@
     },
     "theme-default": {
       "showLevel": true
+    },
+    "multilingual-index": {
+      "enableSuper": false,
+      "index":"index.html"
     }
   }
 }
