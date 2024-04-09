@@ -26,6 +26,9 @@
       "showLevel": true,
       "maxLevel": 3,
       "showGoTop":false
+    },
+    "theme-default": {
+      "showLevel": true
     }
   }
 }
