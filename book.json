@@ -20,10 +20,6 @@
       "maxLevel": 3,
       "showGoTop":false
     },
-    "multilingual-index": {
-      "enableSuper": false,
-      "index":"zh/index.html"
-    },
     "theme-default": {
       "showLevel": true
     }
