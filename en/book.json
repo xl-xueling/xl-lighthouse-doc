@@ -2,6 +2,11 @@
   "styles": {
     "website": "styles/website.css"
   },
+  "links" : {
+    "sidebar" : {
+      "切换到中文" : "http://43.128.112.109:4000/zh/"
+    }
+  },
   "plugins":[
     "-search",
     "expandable-chapters",
