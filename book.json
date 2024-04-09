@@ -1,5 +1,8 @@
 {
   "language": "zh",
+  "structure": {
+    "readme": "zh/README.md"
+  },
   "plugins":[
     "expandable-chapters",
     "pageview-count",
