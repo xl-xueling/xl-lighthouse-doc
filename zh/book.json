@@ -10,6 +10,7 @@
   "plugins":[
     "expandable-chapters",
     "pageview-count",
+    "theme-config",
     "anchor-navigation-ex"
   ],
   "pluginsConfig": {
@@ -25,6 +26,11 @@
       "showLevel": true,
       "maxLevel": 3,
       "showGoTop":false
+    },
+    "themeConfig": {
+      "variables": {
+        "search-placeholder": "Type to search"
+      }
     }
   }
 }
