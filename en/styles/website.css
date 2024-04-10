@@ -1,6 +1,9 @@
 .page-inner {
     max-width: 80% !important;
 }
+.gitbook-link {
+    display: none !important;
+}
 .fa {
     font:normal normal normal 11px/1 FontAwesome !important;
     font-size: 11px !important;
