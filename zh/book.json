@@ -23,7 +23,7 @@
       "multipleH3": false,
       "multipleH4": false,
       "showLevelIcon": false,
-      "showLevel": true,
+      "showLevel": false,
       "maxLevel": 3,
       "showGoTop":false
     },
