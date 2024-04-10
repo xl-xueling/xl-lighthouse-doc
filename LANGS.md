@@ -1,4 +1,4 @@
 # Languages
 
-* [中文](IdeaProjects/xl-lighthouse-doc2/zh/)
+* [中文](zh/)
 * [English](en/)
