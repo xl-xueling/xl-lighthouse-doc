@@ -10,7 +10,6 @@
   "plugins":[
     "expandable-chapters",
     "pageview-count",
-    "theme-hqbook",
     "anchor-navigation-ex"
   ],
   "pluginsConfig": {
@@ -26,9 +25,6 @@
       "showLevel": true,
       "maxLevel": 3,
       "showGoTop":false
-    },
-    "theme-hqbook":{
-      "search-placeholder":"输入并搜索2"
     }
   }
 }
