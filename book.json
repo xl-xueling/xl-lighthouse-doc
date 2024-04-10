@@ -3,6 +3,7 @@
     "expandable-chapters",
     "pageview-count",
     "anchor-navigation-ex",
+    "theme-bookstyle",
     "multilingual-index"
   ],
   "pluginsConfig": {
@@ -21,6 +22,9 @@
     },
     "theme-default": {
       "showLevel": true
+    },
+    "theme-bookstyle":{
+      "search-placeholder":"Type to search"
     }
   }
 }
