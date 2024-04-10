@@ -7,6 +7,7 @@
   ],
   "pluginsConfig": {
     "anchor-navigation-ex": {
+      "associatedWithSummary": false,
       "tocLevel1Icon": "fa fa-hand-o-right",
       "tocLevel2Icon": "fa fa-hand-o-right",
       "tocLevel3Icon": "fa fa-hand-o-right",
@@ -15,7 +16,7 @@
       "multipleH3": false,
       "multipleH4": false,
       "showLevelIcon": false,
-      "showLevel": false,
+      "showLevel": true,
       "maxLevel": 3,
       "showGoTop":false
     },
