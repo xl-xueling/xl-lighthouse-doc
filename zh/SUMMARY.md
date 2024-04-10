@@ -27,8 +27,8 @@
    * [自定义RPC组件](deploy/02.md)
    * [自定义存储引擎](deploy/03.md)
 *  Hello World
-   * [ICON图标点击数据统计](HelloWorld/01.md)
-   * [移动支付订单数据统计](HelloWorld/02.md)
+   * [ICON图标点击数据统计](helloworld/01.md)
+   * [移动支付订单数据统计](helloworld/02.md)
 *  自定义扩展
    * [自定义Key生成逻辑](extend/01.md)
    * [自定义RPC组件](extend/02.md)
