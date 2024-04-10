@@ -18,10 +18,10 @@
 *  XL-Formula
    * [XL-Formula配置标准](xl-formula/01.md)
 *  使用场景演示
-   * [即时通讯场景演示](scene/01.md)
-   * [技术类场景演示](scene/02.md)
-   * [电商类场景演示](scene/03.md)
-   * [资讯类场景演示](scene/04.md)
+   * [即时通讯场景使用演示](scene/01.md)
+   * [技术类场景使用演示](scene/02.md)
+   * [电商类场景使用演示](scene/03.md)
+   * [资讯类场景使用演示](scene/04.md)
 *  安装部署
    * [一键部署](deploy/01.md)
    * [自定义RPC组件](deploy/02.md)
