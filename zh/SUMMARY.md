@@ -28,12 +28,12 @@
    * [统计限流](Web端操作说明/统计限流.md)
    * [调试模式](Web端操作说明/调试模式.md)
    * [工单管理](Web端操作说明/工单管理.md)
+*  XL-Formula
+   * [XL-Formula配置标准](xl-formula/01.md)
 *  自定义扩展
    * [自定义Key生成逻辑](extend/01.md)
    * [自定义RPC组件](extend/02.md)
    * [自定义存储引擎](extend/03.md)
-*  XL-Formula
-   * [XL-Formula配置标准](xl-formula/01.md)   
 *  迭代计划
    * [迭代计划](迭代计划/迭代计划.md)
 *  依赖组件
