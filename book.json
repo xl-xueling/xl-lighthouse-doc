@@ -3,7 +3,7 @@
     "expandable-chapters",
     "pageview-count",
     "anchor-navigation-ex",
-    "theme-bookstyle",
+    "theme-hqbook",
     "multilingual-index"
   ],
   "pluginsConfig": {
@@ -23,8 +23,8 @@
     "theme-default": {
       "showLevel": true
     },
-    "theme-bookstyle":{
-      "search-placeholder":"Type to search"
+    "theme-hqbook":{
+      "search-placeholder":"输入并搜索2"
     }
   }
 }
