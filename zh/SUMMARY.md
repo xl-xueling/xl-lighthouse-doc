@@ -4,6 +4,19 @@
 *  系统设计
    * [系统设计](architecture/01.md)
    * [与ClickHouse/Flink技术对比](architecture/02.md)
+*  Hello World
+   * [ICON图标点击数据统计](helloworld/01.md)
+   * [移动端订单数据统计](helloworld/02.md)
+   * [订单支付状态数据监控](helloworld/03.md)
+*  使用场景演示
+   * [即时通讯场景使用演示](scene/01.md)
+   * [技术类场景使用演示](scene/02.md)
+   * [电商类场景使用演示](scene/03.md)
+   * [资讯类场景使用演示](scene/04.md)   
+*  安装部署
+   * [一键部署](deploy/01.md)
+   * [自定义RPC组件](deploy/02.md)
+   * [自定义存储引擎](deploy/03.md)   
 *  Web端操作说明
    * [部门管理](Web端操作说明/部门管理.md)
    * [用户管理](Web端操作说明/用户管理.md)
@@ -15,25 +28,12 @@
    * [统计限流](Web端操作说明/统计限流.md)
    * [调试模式](Web端操作说明/调试模式.md)
    * [工单管理](Web端操作说明/工单管理.md)
-*  XL-Formula
-   * [XL-Formula配置标准](xl-formula/01.md)
-*  使用场景演示
-   * [即时通讯场景使用演示](scene/01.md)
-   * [技术类场景使用演示](scene/02.md)
-   * [电商类场景使用演示](scene/03.md)
-   * [资讯类场景使用演示](scene/04.md)
-*  安装部署
-   * [一键部署](deploy/01.md)
-   * [自定义RPC组件](deploy/02.md)
-   * [自定义存储引擎](deploy/03.md)
-*  Hello World
-   * [ICON图标点击数据统计](helloworld/01.md)
-   * [移动端订单数据统计](helloworld/02.md)
-   * [订单支付状态数据监控](helloworld/03.md)
 *  自定义扩展
    * [自定义Key生成逻辑](extend/01.md)
    * [自定义RPC组件](extend/02.md)
    * [自定义存储引擎](extend/03.md)
+*  XL-Formula
+   * [XL-Formula配置标准](xl-formula/01.md)   
 *  迭代计划
    * [迭代计划](迭代计划/迭代计划.md)
 *  依赖组件
