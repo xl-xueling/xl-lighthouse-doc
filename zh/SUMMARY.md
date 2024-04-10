@@ -31,9 +31,9 @@
 *  XL-Formula
    * [XL-Formula配置标准](xl-formula/01.md)
 *  自定义扩展
-   * [自定义Key生成逻辑](extend/01.md)
-   * [自定义RPC组件](extend/02.md)
-   * [自定义存储引擎](extend/03.md)
+   * [实现自定义Key生成逻辑接口](extend/01.md)
+   * [实现自定义RPC接口](extend/02.md)
+   * [实现自定义存储引擎接口](extend/03.md)
 *  迭代计划
    * [迭代计划](迭代计划/迭代计划.md)
 *  依赖组件
