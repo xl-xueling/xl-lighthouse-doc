@@ -16,7 +16,7 @@
    * [调试模式](Web端操作说明/调试模式.md)
    * [工单管理](Web端操作说明/工单管理.md)
 *  XL-Formula
-   * [XL-Formula介绍](XL-Formula/01.md)
+   * [XL-Formula介绍](xl-formula/01.md)
 *  使用场景演示
    * [即时通讯场景演示](scene/01.md)
    * [技术类场景演示](scene/02.md)
