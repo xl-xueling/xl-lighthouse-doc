@@ -14,20 +14,6 @@
     "anchor-navigation-ex"
   ],
   "pluginsConfig": {
-    "anchor-navigation-ex": {
-      "associatedWithSummary": false,
-      "tocLevel1Icon": "fa fa-hand-o-right",
-      "tocLevel2Icon": "fa fa-hand-o-right",
-      "tocLevel3Icon": "fa fa-hand-o-right",
-      "multipleH1": false,
-      "multipleH2": false,
-      "multipleH3": false,
-      "multipleH4": false,
-      "showLevelIcon": false,
-      "showLevel": true,
-      "maxLevel": 3,
-      "showGoTop":false
-    },
     "themeConfig": {
       "variables": {
         "search-placeholder": "Type to search"
