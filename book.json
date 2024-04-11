@@ -3,6 +3,7 @@
     "expandable-chapters",
     "pageview-count",
     "anchor-navigation-ex",
+    "insert-logo",
     "multilingual-index"
   ],
   "pluginsConfig": {
@@ -22,6 +23,10 @@
     },
     "theme-default": {
       "showLevel": true
+    },
+    "insert-logo": {
+      "url": "./images/logo.png",
+      "style": "background: none; max-height: 100px; min-height: 30px"
     }
   }
 }
