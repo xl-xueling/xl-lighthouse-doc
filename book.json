@@ -27,7 +27,9 @@
     },
     "insert-logo": {
       "url": "/images/logo.png",
-      "link": "/",
+      "link": {
+        "url": "/"
+      },
       "style": "background: none; max-height: 38px; min-height: 30px"
     }
   }
