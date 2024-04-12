@@ -1,4 +1,5 @@
 {
+  "title": "DTStep",
   "plugins":[
     "expandable-chapters",
     "pageview-count",
