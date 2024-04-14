@@ -19,6 +19,7 @@
    * [集群部署-自定义RPC组件](deploy/02.md)
    * [集群部署-自定义存储引擎](deploy/03.md) 
 *  集群运维
+   * [线上环境接入](management/04.md)
    * [配置优化建议](management/01.md)
    * [config.json配置参考](management/02.md)
    * [日常维护](management/03.md)
