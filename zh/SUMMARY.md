@@ -17,7 +17,11 @@
    * [集群模式一键部署](deploy/01.md)
    * [单机模式一键部署](deploy/04.md)
    * [集群部署-自定义RPC组件](deploy/02.md)
-   * [集群部署-自定义存储引擎](deploy/03.md)   
+   * [集群部署-自定义存储引擎](deploy/03.md) 
+*  集群运维
+   * [配置优化建议](management/01.md)
+   * [config.json配置参考](management/02.md)
+   * [日常维护](management/03.md)
 *  Web端操作说明
    * [部门管理](Web端操作说明/部门管理.md)
    * [用户管理](Web端操作说明/用户管理.md)
