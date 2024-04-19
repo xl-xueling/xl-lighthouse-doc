@@ -24,6 +24,7 @@
    * [配置优化建议](management/01.md)
    * [config.json配置参考](management/02.md)
    * [日常维护](management/03.md)
+   * [一键升级](management/06.md)
 *  Web端操作说明
    * [部门管理](Web端操作说明/部门管理.md)
    * [用户管理](Web端操作说明/用户管理.md)
