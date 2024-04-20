@@ -5,6 +5,7 @@
     "pageview-count",
     "anchor-navigation-ex",
     "insert-logo",
+    "sitemap",
     "multilingual-index"
   ],
   "pluginsConfig": {
@@ -25,8 +26,8 @@
     "theme-default": {
       "showLevel": true
     },
-    "sitemap-general": {
-      "prefix": "https://dtstep.com"
+    "sitemap": {
+      "hostname": "https://dtstep.com"
     },
     "insert-logo": {
       "url": "/images/logo.png",
