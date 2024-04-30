@@ -37,7 +37,10 @@ Easier to use, supports a larger amount of data, and can complete more statistic
 +  支持高并发查询统计结果；
 +  轻量级使用，一键部署、一行代码接入、普通工程人员即可轻松驾驭；
 
+---
 **目前已完成对所有基本功能的严格测试，可以放心使用。可添加本人微信，提供免费一对一技术支持。遇到任何问题，及时提Issue，本人会第一时间处理。**
+
+---
 
 ###  Hello World
 
