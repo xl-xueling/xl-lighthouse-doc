@@ -20,9 +20,7 @@
    * [集群部署-自定义存储引擎](deploy/03.md) 
 *  集群运维
    * [业务接入](management/04.md)
-   * [线上使用注意事项](management/05.md)  
-   * [配置优化建议](management/01.md)
-   * [config.json配置参考](management/02.md)
+   * [config.json配置优化](management/02.md)
    * [日常维护](management/03.md)
    * [一键升级](management/06.md)
    * [数据备份与恢复](management/07.md)
