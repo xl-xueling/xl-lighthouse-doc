@@ -15,13 +15,13 @@
    * [电商类场景使用演示](scene/03.md)
    * [资讯类场景使用演示](scene/04.md)   
 *  安装部署
-   * [集群模式一键部署](deploy/01.md)
-   * [单机模式一键部署](deploy/04.md)
-   * [集群部署-自定义RPC组件](deploy/02.md)
-   * [集群部署-自定义存储引擎](deploy/03.md) 
+   * [一键部署](deploy/01.md)
+   * [自定义RPC组件](deploy/02.md)
+   * [自定义存储引擎](deploy/03.md) 
 *  集群运维
    * [业务接入](management/04.md)
-   * [config.json配置优化](management/02.md)
+   * [集群模式config.json配置优化](management/02.md)
+   * [单机模式config.json配置优化](management/09.md)
    * [日常维护](management/03.md)
    * [一键升级](management/06.md)
    * [数据备份与恢复](management/07.md)
