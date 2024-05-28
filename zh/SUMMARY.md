@@ -4,6 +4,7 @@
 *  系统设计
    * [系统设计](architecture/01.md)
    * [与ClickHouse/Flink技术对比](architecture/02.md)
+   * [三种运行模式](architecture/03.md)
 *  Hello World
    * [ICON图标点击数据统计](helloworld/01.md)
    * [移动端订单数据统计](helloworld/02.md)

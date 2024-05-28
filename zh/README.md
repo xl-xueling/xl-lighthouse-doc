@@ -17,6 +17,7 @@ Easier to use, supports a larger amount of data, and can complete more statistic
 
 <p align="center"><font size="4">一键部署，一行代码接入，无需大数据研发运维经验，轻松驾驭海量数据实时统计。</font></p>
 <p align="center"><font size="4">支撑百万量级数据指标，帮助企业低成本搭建数据化运营体系。</font></p>
+<p align="center"><font size="4">除大数据版本外，同时支持单机版！</font></p>
 
 ### 概述
 
@@ -64,6 +65,21 @@ XL-LightHouse可应用在企业生产的众多环节，可以帮助职场人从�
 - [技术类场景演示](https://dtstep.com/zh/scene/02.html)
 - [电商类场景演示](https://dtstep.com/zh/scene/03.html)
 - [资讯类场景演示](https://dtstep.com/zh/scene/04.html)
+
+### 单机版本
+
+单机模式成本低廉，最低配置只需要一台4核8G的云服务器，部署运维更加简单！
+
+适用场景：
+
++ 面向中小企业或中小型业务团队使用；
+
++ 面向"用完即弃"的使用场景；
+
+有些时候对数据指标的需求，往往只在某个特定的阶段。比如：新接口上线要进行接口性能优化；线上业务出现数据异常问题需要排查；数据库读写压力突然暴涨，需要确定异常请求的来源等等，
+对于此类问题排查，流式统计可以起到至关重要的作用。但问题排查一般不需要持续很长时间，可能一两周甚至两三天。这种情况可以使用XL-LightHouse单机版。一键部署，轻量级使用，问题排查完，将XL-LightHouse删除即可。
+
++ 用于初步体验XL-LightHouse或作为二次开发的联调测试环境；
 
 ### Hello World
 
