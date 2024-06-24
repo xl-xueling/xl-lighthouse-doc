@@ -75,6 +75,7 @@ XL-LightHouse可应用在企业生产的众多环节，可以帮助职场人从�
 + 可以为UI设计师提供其关注的不同设计方案的点击转化对比情况；
 + 可以为数据分析师提供全面的数据指标更准确判断业务短板、业务走势、辅助决策层有针对性制定营销计划；
 + 可以轻松实现对各类复杂业务逻辑各主要环节的数据监控，及时发现问题并辅助问题排查。
++ 可以面向物联网及工业互联网场景各类设备上报数据相关指标统计。
 
 更多示例可参考：
 
@@ -114,7 +115,7 @@ XL-LightHouse除了大数据版本外，同时支持单机版。单机模式成�
 
 -  [安装包下载](https://dtstep.com/zh/versions/02.html)
 -  [开源版本](https://dtstep.com/zh/versions/02.html)
--  [商业版本](https://dtstep.com/zh/commercial/01.html) 
+-  [商业版本](https://dtstep.com/zh/commercial/01.html)
 
 ###  技术支持
 
@@ -131,11 +132,12 @@ XL-LightHouse除了大数据版本外，同时支持单机版。单机模式成�
 -  [一键部署](https://dtstep.com/zh/deploy/01.html)
 
 ###  Web端部分功能预览
-
+![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/32.jpg)
 ![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/5.jpg)
 ![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/22.jpg)
 ![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/23.jpg)
 ![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/7.jpg)
 ![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/8.jpg)
+![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/33.jpg)
 ![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/9.jpg?t=2)
 ![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/screenshot_v2/11.jpg)
