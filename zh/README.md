@@ -113,7 +113,8 @@ XL-LightHouse除了大数据版本外，同时支持单机版。单机模式成�
 ###  版本记录
 
 -  [安装包下载](https://dtstep.com/zh/versions/02.html)
--  [版本记录](https://dtstep.com/zh/versions/02.html)
+-  [开源版本](https://dtstep.com/zh/versions/02.html)
+-  [商业版本](https://dtstep.com/zh/commercial/01.html) 
 
 ###  技术支持
 
