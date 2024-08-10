@@ -21,6 +21,20 @@
 /*}*/
 
 .page-toc-button i{
-    left:14px !important;
-    top:10px !important;
+    left: 19px !important;
+    top: 16px !important;
+    font-size: 14px !important;
+}
+
+.page-toc-button {
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 35px;
+    display: block;
+    position: fixed;
+    top: 68px;
+    right: 25px;
+    width: 40px;
+    height: 40px;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
 }
