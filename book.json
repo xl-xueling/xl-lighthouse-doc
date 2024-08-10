@@ -3,7 +3,7 @@
   "plugins":[
     "expandable-chapters",
     "pageview-count",
-    "anchor-navigation-ex",
+    "page-toc-button",
     "insert-logo",
     "multilingual-index"
   ],
@@ -21,6 +21,10 @@
       "showLevel": true,
       "maxLevel": 3,
       "showGoTop":false
+    },
+    "page-toc-button": {
+      "maxTocDepth": 2,
+      "minTocSize": 2
     },
     "theme-default": {
       "showLevel": true
