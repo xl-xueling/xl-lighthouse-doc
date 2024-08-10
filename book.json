@@ -3,7 +3,6 @@
   "plugins":[
     "expandable-chapters",
     "pageview-count",
-    "anchor-navigation-ex",
     "insert-logo",
     "multilingual-index"
   ],
