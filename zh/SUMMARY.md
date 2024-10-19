@@ -6,6 +6,7 @@
    * [与ClickHouse/Flink技术对比](architecture/02.md)
    * [三种运行模式](architecture/03.md)
 *  Hello World
+   * [实现第一个数据指标](helloworld/04.md)
    * [ICON图标点击数据统计](helloworld/01.md)
    * [移动端订单数据统计](helloworld/02.md)
    * [订单支付状态数据监控](helloworld/03.md)
