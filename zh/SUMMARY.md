@@ -45,8 +45,10 @@
    * [实现自定义RPC接口](extend/02.md)
    * [实现自定义存储引擎接口](extend/03.md)
 *  API
-   * [Java版本SDK](api/01.md)
-   * [Http版本接口](api/02.md)
+   * [Java数据上报API](api/01.md)
+   * [Java数据查询API](api/03.md)
+   * [Http数据上报API](api/02.md)
+   * [Http数据查询API](api/04.md)
 *  迭代计划
    * [迭代计划](versions/01.md)
    * [版本记录](versions/02.md)
