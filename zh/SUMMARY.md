@@ -55,6 +55,7 @@
 *  商业版
    * [商业版](commercial/01.md)  
    * [JS页面引用功能](commercial/02/01.md)
+   * [自定义视图功能](commercial/01/01.md)
 *  我的一些个人观点
    * [驾驭数据的能力是职场人的必修课](opinion/01.md)
    * [企业重金打造的数据平台为何效果平平？](opinion/02.md)
