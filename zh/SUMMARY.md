@@ -37,6 +37,7 @@
    * [筛选组件](web/04.md)
    * [统计限流](web/07.md)
    * [调试模式](web/09.md)
+   * [调用方管理](web/11.md)   
    * [工单管理](web/01.md)
 *  XL-Formula
    * [XL-Formula配置标准](xl-formula/01.md)
