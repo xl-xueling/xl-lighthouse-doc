@@ -18,7 +18,7 @@ Easier to use, supports a larger amount of data, and can complete more statistic
 <p align="center"><font size="4">一键部署，一行代码接入，无需大数据研发运维经验，轻松驾驭海量数据实时统计。</font></p>
 <p align="center"><font size="4">支撑百万量级数据指标，打造成本最低的数据化运营方案，帮助企业快速搭建数据化运营体系。</font></p>
 <p align="center"><font size="4">流式统计运算性能超越Flink/Spark 100倍！</font></p>
-<p align="center"><font size="4">除大数据版本外，同时支持单机版！</font></p>
+<p align="center"><font size="4">开源、免费、可商用的自助式BI系统，除大数据版本外，同时支持单机版！</font></p>
 
 ### 概述
 
@@ -120,8 +120,8 @@ XL-LightHouse除了大数据版本外，同时支持单机版。单机模式成�
 ###  版本记录
 
 -  [安装包下载](https://dtstep.com/zh/versions/02.html)
--  [开源版本（最新：v2.2.7）](https://dtstep.com/zh/versions/02.html)
--  [商业版本（最新：v2.2.7-pro.1）](https://dtstep.com/zh/commercial/01.html)
+-  [开源版本（最新：v2.2.8）](https://dtstep.com/zh/versions/02.html)
+-  [商业版本（最新：v2.2.8-pro.1）](https://dtstep.com/zh/commercial/01.html)
 
 ###  日常运维
 
@@ -179,6 +179,6 @@ XL-LightHouse商业版提供更加强大和便利的数据统计分析功能，�
 
 ### Contact
 
-如果您有任何问题、意见或建议，请您添加以下微信。
+如果您有任何问题、意见、建议或者加入交流群随时了解项目最新动态，请您添加以下微信。
 
 ![XL-LightHouse](https://lighthousedp-1300542249.cos.ap-nanjing.myqcloud.com/contact/contact_20240627_084143.jpg)
