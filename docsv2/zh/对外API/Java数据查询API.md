@@ -1,4 +1,4 @@
-本篇文章介绍如何使用Java版本API查询各数据指标的统计结果。
+本篇文章介绍如何使用Java版本API查询各数据指标的统计结果，在调用API之前请首先确保与部署服务器的4061端口和18101端口网络互通。
 
 ## 创建调用方
 
@@ -141,4 +141,5 @@ dimensValue为字符串类型，传递单个纬度值，dimensValueList为数组
 
 + 本SDK提供基础验签机制，如果您对SDK使用安全性方面有更高要求，可以在本SDK的基础上额外增加数据加密或签名验证等处理流程；
 + 每次api接口调用返回记录数上限为10万条数据，如果您的查询场景超过该上限，请分成多次查询；
-+ 本文示例代码您可以参考项目源码中的单元测试：com.dtstep.lighthouse.core.test.api.RpcDataQueryTest；
++ 本文示例代码您可以参考项目源码中的单元测试：com.dtstep.lighthouse.core.test.api.RpcDataQueryTest；    
+   
