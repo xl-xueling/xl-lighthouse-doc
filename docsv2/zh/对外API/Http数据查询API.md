@@ -175,7 +175,7 @@ dimensValue为字符串类型，传递单个纬度值，dimensValueList为数组
 + 查询每个省份各个业务线的订单金额，该示例为维度查询，请按照
 
 ```
-<stat-item title="每天_各省份_各业务线_订单金额" stat="sum(amount)" dimens="province;biz;"/>
+<stat-item title="每天_各省份_各业务线_订单金额" stat="sum(amount)" dimens="province;biz"/>
 ```
 
 该示例维度参数为省份和业务线，请按照province;biz的格式拼接维度参数，格式示例：山东省;手机业务 或 河北省;外卖业务，务必按照dimens中的各维度字段的顺序进行排列并使用分号分割。
